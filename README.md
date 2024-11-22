@@ -15,15 +15,14 @@
 # Notes
 
 Use era5 data to get weather, 
-  Variables: Mean Snowfall Rate
-             Mean Snowmelt Rate
-             Mean Total Percitpitation Rate
-             Skin Temperature (surface temp, could be useful for camping viz)
-             Snow Depth
-             2m Temperature
-             Snowfall
-             Snowmelt
-             Total Column Ozone
-             Type of high vegetation
+  Variables: Mean Snowfall Rate,
+             Mean Snowmelt Rate,
+             Mean Total Percitpitation Rate,
+             Skin Temperature (surface temp, could be useful for camping viz),
+             Snow Depth,
+             2m Temperature,
+             Snowfall,
+             Snowmelt,
+             Total Column Ozone,
+             Type of high vegetation,
              Type of low vegetation
-             
